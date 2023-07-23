@@ -18,7 +18,8 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://github.com/brineddata/markdown-cv/blob/5c39febca37e7b2713cb3a6ae0829366972bf5fe/index.md
+# https://google.com/?q=my+resume
 
 url: https://sergiokopplin.github.io/indigo
 # your url: https://USERNAME.github.io
