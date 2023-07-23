@@ -18,8 +18,7 @@ dark-theme: auto
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://brineddata.github.io/markdown-cv/
-
+resume-url: https://brineddata.github.io/mycv/
 
 
 url: https://sergiokopplin.github.io/indigo
