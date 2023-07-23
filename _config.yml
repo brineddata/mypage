@@ -1,6 +1,6 @@
 # main text of home
-title: John Doe
-bio: A Person who travels the world eating noodles
+title: Metin Berkay Konar
+bio: A lifetime curious.
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -21,7 +21,7 @@ resume-external: true
 resume-url: https://brineddata.github.io/mycv/
 
 
-url: https://sergiokopplin.github.io/indigo
+url: https://brineddata.github.io/mypage/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -35,9 +35,9 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
+#facebook: myfacebook
+#twitter: mytwitter
+#instagram: myinstagram
 linkedin: mylinkedin
 github: mygithub
 email: myemail@gmail.com
